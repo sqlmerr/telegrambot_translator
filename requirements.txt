@@ -1,1 +1,3 @@
-aiogram, translate, logging
+aiogram
+translate
+logging
